@@ -18,7 +18,7 @@ from utlis.filters import LangFilter, McDonaldsCodeFilter, GetCodeFilter, DelCod
 
 import_languages()
 
-bot = Bot("6518830080:AAHdO6mz5AzU2boKcJQa1RW8nBT-ITteYws", parse_mode='html')
+bot = Bot("a", parse_mode='html')
 
 storage = MemoryStorage()
 dp = Dispatcher(bot, storage=storage)
