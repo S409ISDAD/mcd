@@ -1,20 +1,31 @@
-# Receiptify
-To use receiptify you must have a Mcdonalds receipt with a 12 character code on top and an email address handy to receive the result.
+# mcd-uk-bot
 
-## How does this work?
-McDonalds offers a special promo in the UK where if you enter a 12 character code on top of a receipt and fill in a survey, you can have a
-big mac and fries or something similar for £1.99. This CLI utility can perform the entire survey in about 15 seconds and use an email you
-provide to send the code to. This fills out all good reviews as to limit the questions and not be a terrible human being.
+**Using this bot you can get:**
+1. BigMac and medium fries for 2£
+2. Any side meal or coffee from Subway (unlimited amount)
 
-## Installation and usage
 
-Start by runnning:
-```
-npm install -g https://github.com/mattmilan-dev/receiptify
-```
+The bot is hosted 24/7 and free to use, you can find it here: https://t.me/mcdonalds_uk_bot
 
-Use by running:
-```
-receiptify
-```
-in your terminal window with Node installed.
+
+# Below you can find a little instruction and guide
+
+
+## Start menu
+![image](https://github.com/batreller/mcd-uk-bot/assets/120225698/0b9bfa42-2584-44c8-afee-eebd1f617cfb)
+
+## McDonald's button
+![image](https://github.com/batreller/mcd-uk-bot/assets/120225698/e1625835-9f8e-44bf-87d0-d641ce52f3f3)
+
+### Get a code button
+![image](https://github.com/batreller/mcd-uk-bot/assets/120225698/78aec752-62ff-4b9d-a76f-a5a6a02da41e)
+
+### Archive button
+![image](https://github.com/batreller/mcd-uk-bot/assets/120225698/b30858cd-b67c-4a6c-bb88-3a5caad232a5)
+
+
+## Settings button
+![image](https://github.com/batreller/mcd-uk-bot/assets/120225698/6dafea3f-9171-45ff-9e59-8f37f7b25f09)
+
+## Subway button
+![image](https://github.com/batreller/mcd-uk-bot/assets/120225698/190ccaf4-bd51-4e7d-ba0f-3f73df2d0ac5)
